@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/singh/Documents/AndroidStudioProjects/RandomCardGenerator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/singh/Documents/AndroidStudioProjects/RandomCardGenerator/app/build/intermediates/pre-dexed/debug/classes-db238f3befb00725a6238783b5cf13a0106b703d.jar" />
+    </item>
+    <item
+        jar="/Users/singh/Documents/AndroidStudioProjects/RandomCardGenerator/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/singh/Documents/AndroidStudioProjects/RandomCardGenerator/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-aaf0108c9b5965e6ebcdd5f5d444c4c36b6b41ac.jar" />
+    </item>
+    <item
+        jar="/Users/singh/Documents/AndroidStudioProjects/RandomCardGenerator/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/singh/Documents/AndroidStudioProjects/RandomCardGenerator/app/build/intermediates/pre-dexed/debug/classes-88102ccd97f1d8a80c1ffca0a85aa8336f06d3d4.jar" />
+    </item>
+    <item
+        jar="/Users/singh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/singh/Documents/AndroidStudioProjects/RandomCardGenerator/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-bcbf1715243c50361aa6131d0fa636eac28450be.jar" />
+    </item>
+
+</items>
